@@ -15,3 +15,11 @@ Além da tela de cadastro, o Hip/Waist possui uma tela de tabela, no qual mostra
 Além dessas telas, o Hip/Waist possui uma tela de estatísticas, que mostra o Maior RCQ, Menor RCQ e sua media, de todos os cadastrados.
 
 ![Estatisticas](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/Estatisticas.PNG)
+
+# Manual do Usuário
+
+### Hip/Waist é um aplicativo de facil utilização, mas para melhor entendimento foi, temos um botão na tela inicial do aplicativo que quando clicado, README.md desse repositório!
+
+## Modo de usar: 
+
+![cadastro](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/cadastro.PNG)
