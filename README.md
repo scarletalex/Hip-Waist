@@ -26,9 +26,9 @@ Para cadastrar é fácil. Apenas digitar o nome, gênero, idade, cintura e quadr
 
 ![cadastro](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/cadastro.PNG)
 
-#### Se os parametros não forem cumpridos?
+#### Se os parâmetros não forem cumpridos?
 
-Será acionado um alerta e não será salvo esse cadastro, podendo após isso ser cadastrado com os dados dentro dos parametros. A primeira imagem é em relação aos dados, a segunda está se a pessoa já foi cadastrada:
+Será acionado um alerta e não será salvo esse cadastro, podendo após isso ser cadastrado com os dados dentro dos parâmetros. A primeira imagem é em relação aos dados, a segunda se a pessoa já foi cadastrada:
 
 ![erro](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/erro.PNG)
 
@@ -53,9 +53,21 @@ Contamos com dois botões que possibilitam a ordenação a partir desses dois cr
 
 ### Errei algum dado quando inseri a pessoa, como posso editar ou excluir?
 
-Você pode alterar os dados se clicar duas vezes na célula correspondente a linha da Pessoa, após clicar duas vezes na célula da Pessoa, uma nova janela, na janela de edição aparecerá a tela como a do cadastro, com os dados de quem deseja alterar, .
+Você pode alterar os dados se clicar duas vezes na célula correspondente a linha da Pessoa, após clicar duas vezes na célula da Pessoa, uma nova janela, na janela de edição aparecerá a tela como a do cadastro, com os dados de quem deseja alterar ou excluir, contamos com dois botões que possibilitam a "Remoção" da pessoa ou a "Edição" dos dados:
 
-![editar](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/edi%C3%A7%C3%A3o.PNG)
+![editar/excluir](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/edi%C3%A7%C3%A3o.PNG)
+
+#### Item editado:
+
+como demonstra a imegem, o nome Naruto foi alterado para Sakura e os valores da cintura e quadril também:
+
+![editado](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/tabela%20atualizada.PNG)
+
+#### Item Excluido:
+
+A imagem mostrará a tabela com a remoção de naruto remoção de Naruto:
+
+![ecluído](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/remover.PNG)
 
 
 
