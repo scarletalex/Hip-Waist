@@ -61,7 +61,7 @@ Você pode alterar os dados se clicar duas vezes na célula correspondente a lin
 
 #### Item editado:
 
-como demonstra a imegem, o nome Naruto foi alterado para Sakura e os valores da cintura e quadril também:
+como demonstra a imagem, o nome Naruto foi alterado para Sakura e os valores da cintura e quadril também:
 
 ![editado](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/tabela%20atualizada.PNG)
 
