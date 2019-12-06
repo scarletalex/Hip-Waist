@@ -20,17 +20,28 @@ Além dessas telas, o Hip/Waist possui uma tela de estatísticas, que mostra o M
 
 ### Hip/Waist é um aplicativo de simples utilização, mas para melhor entendimento foi, temos um botão na tela inicial do aplicativo que quando clicado, README.md desse repositório!
 
-## Modo de usar: 
+## Modo de cadastrar: 
 
-Para cadastrar é fácil. Apenas digitar o nome, gênero, idade, cintura e quadril, os valores maiores que 0 e o nome com mais de 3 letras, lembrar tambem de não deixar os parametros vázios, e logo em seguida apertar o botão "Cadastrar". Observe a tela de cadastro:
+Para cadastrar é fácil. Apenas digitar o nome, gênero, idade, cintura e quadril, os valores maiores que 0 e o nome com mais de 3 letras, lembrar tambem de não deixar os parametros vázios,além disso, se a pessoa não houver sido cadastrada anteriormente, e logo em seguida apertar o botão "Cadastrar". Observe a tela de cadastro:
 
 ![cadastro](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/cadastro.PNG)
 
 #### Se os parametros não forem cumpridos?
 
-Será acionado um alerta e não será salvo esse cadastro, podendo após isso ser cadastrado com os dados dentro dos parametros.
+Será acionado um alerta e não será salvo esse cadastro, podendo após isso ser cadastrado com os dados dentro dos parametros. A primeira imagem é em relação aos dados, a segunda está se a pessoa já foi cadastrada:
 
 ![erro](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/erro.PNG)
+
+## Cadastro Realizado...
+
+Com as pessoas cadastrada, elas serão inserido na tabela. Na tabela, será mostrado os dados feito no cadastro, o RCQ calculado internamente a partir da cintura e do quadril, e os Riscos de doenças cardiocasculares através dos dados do cadastro e do RCQ...
+
+![tabela com cadastro](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/tabela%20com%20cadastro.PNG)
+
+
+## Como ordenar as pessoas por nome? E por RCQ?
+
+Contamos com dois botões que possibilitam a ordenação a partir desses dois critérios de maneira rápida. Basta clicar na sua opção preferida e os filmes serão mostrados automaticamente na tabela. A primeira imagem mostrará os filmes ordenados por nota e a segunda, por nome.
 
 
 
