@@ -67,7 +67,7 @@ Como demonstra a imagem, o nome Naruto foi alterado para Sakura e os valores da 
 
 #### Item Excluido:
 
-A imagem mostrará a tabela com a remoção de naruto remoção de Naruto:
+A imagem mostrará a tabela com a remoção de Naruto:
 
 ![excluído](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/remover.PNG)
 
