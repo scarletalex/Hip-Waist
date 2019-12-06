@@ -1,5 +1,7 @@
 # Hip/Waist
+
 ### Projeto para disciplina de Técnicas de Programação 2019.2 com uso do Qt Creator . Hip/Waist é uma aplicação que cadastra e gerencia a relação cintura quadril (RCQ) de acordo com dados fornecidos pelos usuários.
+
 A relação cintura quadril (RCQ) é uma forma bastante comum de estimar e perceber a distribuição da gordura dos segmentos superiores em relação aos segmentos inferiores e foi desenvolvida para prognosticar o risco de doença cardiovasculares. Para isso e necessário que utilize a medida da cintura (cm) divido pela medida do quadril (cm) e depois observar na tabela se esta dentro dos padrões aceitáveis para a idade e para o sexo (Figura 1).
 
  RCQ = Cintura (cm)/Quadril (cm).
@@ -53,7 +55,7 @@ Contamos com dois botões que possibilitam a ordenação a partir desses dois cr
 
 ### Errei algum dado quando inseri a pessoa, como posso editar ou excluir?
 
-Você pode alterar os dados se clicar duas vezes na célula correspondente a linha da Pessoa, após clicar duas vezes na célula da Pessoa, uma nova janela, na janela de edição aparecerá a tela como a do cadastro, com os dados de quem deseja alterar ou excluir, contamos com dois botões que possibilitam a "Remoção" da pessoa ou a "Edição" dos dados:
+Você pode alterar os dados se clicar duas vezes na célula correspondente a linha da Pessoa, após clicar duas vezes na célula da Pessoa, uma nova janela será aberta, na janela de edição aparecerá a tela como a do cadastro, com os dados de quem deseja alterar ou excluir, contamos com dois botões que possibilitam a "Remoção" da pessoa ou a "Edição" dos dados:
 
 ![editar/excluir](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/edi%C3%A7%C3%A3o.PNG)
 
@@ -67,7 +69,25 @@ como demonstra a imegem, o nome Naruto foi alterado para Sakura e os valores da 
 
 A imagem mostrará a tabela com a remoção de naruto remoção de Naruto:
 
-![ecluído](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/remover.PNG)
+![excluído](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/remover.PNG)
 
+## Estatísticas
 
+O Hip/Waist traz algumas estatísticas que são calculadas automaticamente após qualquer cadastro ou após abrir um arquivo pronto. 
+
+![estatisticas](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/estatistica%20com%20dados.PNG)
+
+## Como salvar as Pessoas em um arquivo? E como carregar os filmes de um arquivo existente?
+
+Para salvar é muito fácil. Basta selecionar a opção "Salvar" na barra de tarefas "Arquivo" ou digitar o comando CTRL+S, e as pessoas cadastradas serão salvas em um arquivo de planilha(.csv) com o nome e no local desejado.
+
+![salvar](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/salvar.png)
+
+Para carregar também é muito fácil, basta selecionar um arquivo que respeite o formato lido pelo app (.csc) e ele será mostrado automaticamente dentro das tabelas e estará pronto para ser lido nas estatísticas, ordenado por nome, RCQ, ser editado, excluido ou cadastrado mais pessoas.
+
+![carregar](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/carregar.png)
+
+## Caso precise de mais informações sobre o Hip/Waist:
+
+Basta clicar no botão "manual de uso", detectado na tela de cadastro, que esse README.md será aberto e explicará a sua aplicação! 😬
 
