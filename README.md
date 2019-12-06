@@ -87,7 +87,29 @@ Para carregar também é muito fácil, basta selecionar um arquivo que respeite 
 
 ![carregar](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/carregar.png)
 
-## Caso precise de mais informações sobre o Hip/Waist:
+## Caso precise de ajuda:
 
-Basta clicar no botão "manual de uso", detectado na tela de cadastro, que esse README.md será aberto e explicará a sua aplicação! 😬
+### Como obter mais informações do Hip/Waist?
+
+Basta clicar no botão "manual de uso", detectado na tela de cadastro, que esse README.md será aberto e explicará a sua aplicação! 
+
+### Como localizar cardiologistas?
+
+Basta clicar no botão "Cardiologistas", detectado na tela de cadastro, que o maps com a localização dos cardiologistas mais próximos será aberto! 
+## Cuide de sua saúde, vá ao médico!
+
+![ajuda](https://github.com/scarletalex/Hip-Waist/blob/master/Figuras%20do%20manual/ajuda.png?raw=true)
+
+# Mais informações:
+
+## Engenharia Elétrica - Técnicas de Programação -IFPB -João Pessoa
+## Maria Fernanda Ferreira de Aguiar
+
+### Meu email: fernanda.aguiar@academico.ifpb.edu.br
+### Meu instagram: @mariaf3rnand4
+
+
+
+
+
 
