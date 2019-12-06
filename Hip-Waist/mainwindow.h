@@ -40,6 +40,8 @@ private slots:
 
     void on_manual_clicked();
 
+    void on_cardiologistas_clicked();
+
 private:
     Ui::MainWindow *ui;
 

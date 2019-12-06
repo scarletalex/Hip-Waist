@@ -239,22 +239,39 @@ color: rgb(197, 0, 0);</string>
        </item>
       </layout>
      </widget>
-     <widget class="QPushButton" name="manual">
+     <widget class="QWidget" name="">
       <property name="geometry">
        <rect>
-        <x>390</x>
+        <x>300</x>
         <y>400</y>
-        <width>171</width>
-        <height>31</height>
+        <width>351</width>
+        <height>41</height>
        </rect>
       </property>
-      <property name="styleSheet">
-       <string notr="true">background-color: rgb(236, 236, 236);
+      <layout class="QHBoxLayout" name="horizontalLayout_14">
+       <item>
+        <widget class="QPushButton" name="cardiologistas">
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(236, 236, 236);
 font: 8pt &quot;MS PGothic&quot;;</string>
-      </property>
-      <property name="text">
-       <string>Manual de uso</string>
-      </property>
+         </property>
+         <property name="text">
+          <string>Cardiologistas</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="manual">
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(236, 236, 236);
+font: 8pt &quot;MS PGothic&quot;;</string>
+         </property>
+         <property name="text">
+          <string>Manual de uso</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
      </widget>
     </widget>
     <widget class="QWidget" name="tab_2">

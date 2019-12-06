@@ -146,3 +146,10 @@ void MainWindow::on_manual_clicked()
 
     QDesktopServices::openUrl(url);
 }
+
+void MainWindow::on_cardiologistas_clicked()
+{
+    QUrl url = QUrl("https://www.google.com/maps/search/cardiologistas/");
+
+    QDesktopServices::openUrl(url);
+}
