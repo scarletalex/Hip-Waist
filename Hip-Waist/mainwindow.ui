@@ -43,8 +43,8 @@ alternate-background-color: rgb(0, 255, 127);</string>
      <widget class="QWidget" name="layoutWidget">
       <property name="geometry">
        <rect>
-        <x>50</x>
-        <y>180</y>
+        <x>40</x>
+        <y>150</y>
         <width>871</width>
         <height>231</height>
        </rect>
@@ -53,7 +53,8 @@ alternate-background-color: rgb(0, 255, 127);</string>
        <item>
         <widget class="QLabel" name="label_6">
          <property name="styleSheet">
-          <string notr="true">background-color: rgb(255, 255, 255);</string>
+          <string notr="true">background-color: rgb(255, 255, 255);
+font: 8pt &quot;Sylfaen&quot;;</string>
          </property>
          <property name="text">
           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt;Riscos de Doenças Cardiovasculares&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
@@ -80,7 +81,8 @@ alternate-background-color: rgb(0, 255, 127);</string>
                  <item>
                   <widget class="QLineEdit" name="inputNome">
                    <property name="styleSheet">
-                    <string notr="true">background-color: rgb(255, 255, 255);</string>
+                    <string notr="true">background-color: rgb(255, 255, 255);
+font: 10pt &quot;MS Shell Dlg 2&quot;;</string>
                    </property>
                   </widget>
                  </item>
@@ -150,7 +152,8 @@ alternate-background-color: rgb(0, 255, 127);</string>
                  <item>
                   <widget class="QLineEdit" name="inputCintura">
                    <property name="styleSheet">
-                    <string notr="true">background-color: rgb(255, 255, 255);</string>
+                    <string notr="true">background-color: rgb(255, 255, 255);
+font: 10pt &quot;MS Shell Dlg 2&quot;;</string>
                    </property>
                   </widget>
                  </item>
@@ -168,7 +171,8 @@ alternate-background-color: rgb(0, 255, 127);</string>
                  <item>
                   <widget class="QLineEdit" name="inputQuadril">
                    <property name="styleSheet">
-                    <string notr="true">background-color: rgb(255, 255, 255);</string>
+                    <string notr="true">background-color: rgb(255, 255, 255);
+font: 10pt &quot;MS Shell Dlg 2&quot;;</string>
                    </property>
                   </widget>
                  </item>
@@ -181,21 +185,12 @@ alternate-background-color: rgb(0, 255, 127);</string>
            <item>
             <widget class="QPushButton" name="btn">
              <property name="styleSheet">
-              <string notr="true">background-color: rgb(255, 255, 255);
-background-color: rgb(170, 170, 127);</string>
+              <string notr="true">font: 8pt &quot;Yu Gothic UI Semilight&quot;;
+font: 75 8pt &quot;MS Shell Dlg 2&quot;;
+background-color: rgb(170, 170, 255);</string>
              </property>
              <property name="text">
               <string>Cadastrar</string>
-             </property>
-            </widget>
-           </item>
-           <item>
-            <widget class="QPushButton" name="manual">
-             <property name="styleSheet">
-              <string notr="true">background-color: rgb(255, 255, 255);</string>
-             </property>
-             <property name="text">
-              <string>Manual de uso</string>
              </property>
             </widget>
            </item>
@@ -205,12 +200,12 @@ background-color: rgb(170, 170, 127);</string>
        </item>
       </layout>
      </widget>
-     <widget class="QWidget" name="">
+     <widget class="QWidget" name="layoutWidget">
       <property name="geometry">
        <rect>
-        <x>370</x>
-        <y>60</y>
-        <width>211</width>
+        <x>320</x>
+        <y>30</y>
+        <width>291</width>
         <height>111</height>
        </rect>
       </property>
@@ -230,12 +225,36 @@ background-color: rgb(170, 170, 127);</string>
        </item>
        <item>
         <widget class="QLabel" name="label_13">
+         <property name="styleSheet">
+          <string notr="true">font: 8pt &quot;Castellar&quot;;
+color: rgb(197, 0, 0);</string>
+         </property>
          <property name="text">
-          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt;Hip/Waist &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:16pt; font-weight:600;&quot;&gt;Hip/Waist &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+         </property>
+         <property name="textFormat">
+          <enum>Qt::RichText</enum>
          </property>
         </widget>
        </item>
       </layout>
+     </widget>
+     <widget class="QPushButton" name="manual">
+      <property name="geometry">
+       <rect>
+        <x>390</x>
+        <y>400</y>
+        <width>171</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(236, 236, 236);
+font: 8pt &quot;MS PGothic&quot;;</string>
+      </property>
+      <property name="text">
+       <string>Manual de uso</string>
+      </property>
      </widget>
     </widget>
     <widget class="QWidget" name="tab_2">
@@ -300,7 +319,8 @@ background-color: rgb(255, 255, 255);</string>
          <item>
           <widget class="QPushButton" name="OrdenarNome">
            <property name="styleSheet">
-            <string notr="true">background-color: rgb(170, 170, 127);</string>
+            <string notr="true">font: 8pt &quot;Yu Gothic UI Semilight&quot;;
+background-color: rgb(170, 170, 255);</string>
            </property>
            <property name="text">
             <string>Ordenar por Ordem Alfabética</string>
@@ -310,7 +330,8 @@ background-color: rgb(255, 255, 255);</string>
          <item>
           <widget class="QPushButton" name="OrdenarRCQ">
            <property name="styleSheet">
-            <string notr="true">background-color: rgb(170, 170, 127);</string>
+            <string notr="true">background-color: rgb(170, 170, 255);
+font: 8pt &quot;Yu Gothic UI Semilight&quot;;</string>
            </property>
            <property name="text">
             <string>Ordenar por Ordem de RCQ</string>
@@ -365,7 +386,7 @@ background-color: rgb(255, 255, 255);</string>
        <item>
         <widget class="QLabel" name="label_7">
          <property name="styleSheet">
-          <string notr="true">
+          <string notr="true">font: 8pt &quot;Sylfaen&quot;;
 background-color: rgb(170, 170, 255);
 </string>
          </property>
@@ -399,7 +420,8 @@ background-color: rgb(170, 170, 255);
        <item>
         <widget class="QLabel" name="label_8">
          <property name="styleSheet">
-          <string notr="true">background-color: rgb(170, 170, 255);</string>
+          <string notr="true">background-color: rgb(170, 170, 255);
+font: 8pt &quot;Sylfaen&quot;;</string>
          </property>
          <property name="text">
           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;Menor RCQ:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
@@ -431,7 +453,8 @@ background-color: rgb(170, 170, 255);
        <item>
         <widget class="QLabel" name="label_9">
          <property name="styleSheet">
-          <string notr="true">background-color: rgb(170, 170, 255);</string>
+          <string notr="true">background-color: rgb(170, 170, 255);
+font: 8pt &quot;Sylfaen&quot;;</string>
          </property>
          <property name="text">
           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;Media:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>

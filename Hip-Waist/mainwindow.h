@@ -7,6 +7,7 @@
 #include <QFileDialog>
 #include <QPixmap>
 #include <QUrl>
+#include <QDesktopServices>
 #include "pessoa.h"
 #include "grupo.h"
 #include "editedialog.h"

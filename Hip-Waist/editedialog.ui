@@ -41,7 +41,8 @@ alternate-background-color: rgb(170, 255, 255);</string>
         <item>
          <widget class="QLineEdit" name="inputNome">
           <property name="styleSheet">
-           <string notr="true">background-color: rgb(255, 255, 255);</string>
+           <string notr="true">background-color: rgb(255, 255, 255);
+font: 10pt &quot;MS Shell Dlg 2&quot;;</string>
           </property>
          </widget>
         </item>
@@ -111,7 +112,8 @@ alternate-background-color: rgb(170, 255, 255);</string>
         <item>
          <widget class="QLineEdit" name="inputCintura">
           <property name="styleSheet">
-           <string notr="true">background-color: rgb(255, 255, 255);</string>
+           <string notr="true">background-color: rgb(255, 255, 255);
+font: 10pt &quot;MS Shell Dlg 2&quot;;</string>
           </property>
          </widget>
         </item>
@@ -129,7 +131,8 @@ alternate-background-color: rgb(170, 255, 255);</string>
         <item>
          <widget class="QLineEdit" name="inputQuadril">
           <property name="styleSheet">
-           <string notr="true">background-color: rgb(255, 255, 255);</string>
+           <string notr="true">background-color: rgb(255, 255, 255);
+font: 10pt &quot;MS Shell Dlg 2&quot;;</string>
           </property>
          </widget>
         </item>

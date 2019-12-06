@@ -33,7 +33,7 @@ void MainWindow::on_btn_clicked()
        int quantidade_linhas = ui->tabela->rowCount();
        if(grupo.existe(pessoa) == 1){
 
-                QMessageBox::critical(this,"Erro","O Nome já foi cadastrado");
+                QMessageBox::critical(this,"Erro","Pessoa já cadastrada!");
        }else{
                 pessoa.setRCQ();
 
@@ -142,5 +142,7 @@ void MainWindow::on_tabela_cellDoubleClicked(int row, int column)
 
 void MainWindow::on_manual_clicked()
 {
+    QUrl url = QUrl("https://github.com/scarletalex/Hip-Waist/blob/master/README.md");
 
+    QDesktopServices::openUrl(url);
 }
