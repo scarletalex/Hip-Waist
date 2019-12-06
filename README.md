@@ -96,9 +96,10 @@ Basta clicar no botão "manual de uso", detectado na tela de cadastro, que esse 
 ### Como localizar cardiologistas?
 
 Basta clicar no botão "Cardiologistas", detectado na tela de cadastro, que o maps com a localização dos cardiologistas mais próximos será aberto! 
-## Cuide de sua saúde, vá ao médico!
 
 ![ajuda](https://github.com/scarletalex/Hip-Waist/blob/master/Figuras%20do%20manual/ajuda.png?raw=true)
+
+## Cuide de sua saúde, vá ao médico!
 
 # Mais informações:
 
