@@ -32,6 +32,8 @@ Será acionado um alerta e não será salvo esse cadastro, podendo após isso se
 
 ![erro](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/erro.PNG)
 
+![existe](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/existe.PNG)
+
 ## Cadastro Realizado...
 
 Com as pessoas cadastrada, elas serão inserido na tabela. Na tabela, será mostrado os dados feito no cadastro, o RCQ calculado internamente a partir da cintura e do quadril, e os Riscos de doenças cardiocasculares através dos dados do cadastro e do RCQ...
@@ -41,13 +43,19 @@ Com as pessoas cadastrada, elas serão inserido na tabela. Na tabela, será most
 
 ## Como ordenar as pessoas por nome? E por RCQ?
 
-Contamos com dois botões que possibilitam a ordenação a partir desses dois critérios de maneira rápida. Basta clicar na sua opção preferida e os filmes serão mostrados automaticamente na tabela. A primeira imagem mostrará os filmes ordenados por nota e a segunda, por nome.
+Contamos com dois botões que possibilitam a ordenação a partir desses dois critérios. Basta clicar na sua opção desejada e as Pessoas serão mostradas automaticamente na tabela. A primeira imagem mostrará as pessoas ordenadas por nome e a segunda, por ordem crescente de RCQ.
 
+![ordem alfabética](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/ordenar%20por%20nome.PNG)
+
+![ordem RCQ](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/ordenar%20por%20rcq.PNG)
 
 ## Como usar a tabela?
 
 ### Errei algum dado quando inseri a pessoa, como posso editar ou excluir?
 
-Você pode alterar os dados se clicar duas vezes na célula correspondente a linha da Pessoa, após clicar duas vezes na célula da Pessoa, uma nova janela, a janela de edição nela aparecerá a tela como a do cadastro, com os dados de quem deseja alterar, .
+Você pode alterar os dados se clicar duas vezes na célula correspondente a linha da Pessoa, após clicar duas vezes na célula da Pessoa, uma nova janela, na janela de edição aparecerá a tela como a do cadastro, com os dados de quem deseja alterar, .
+
+![editar](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/edi%C3%A7%C3%A3o.PNG)
+
 
 
