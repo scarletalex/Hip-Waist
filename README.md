@@ -20,7 +20,7 @@ Além dessas telas, o Hip/Waist possui uma tela de estatísticas, que mostra o M
 
 # Manual do Usuário
 
-### Hip/Waist é um aplicativo de simples utilização, mas para melhor entendimento foi, temos um botão na tela inicial do aplicativo que quando clicado, README.md desse repositório!
+### Hip/Waist é um aplicativo de simples utilização,mas para melhor entendimento temos um botão na tela inicial do aplicativo que quando clicado, README.md desse repositório!
 
 ## Modo de cadastrar: 
 
@@ -30,7 +30,7 @@ Para cadastrar é fácil. Apenas digitar o nome, gênero, idade, cintura e quadr
 
 #### Se os parâmetros não forem cumpridos?
 
-Será acionado um alerta e não será salvo esse cadastro, podendo após isso ser cadastrado com os dados dentro dos parâmetros. A primeira imagem é em relação aos dados, a segunda se a pessoa já foi cadastrada:
+Será acionado um alerta, podendo após isso ser cadastrado com os dados dentro dos parâmetros. A primeira imagem é em relação aos dados, a segunda se a pessoa já foi cadastrada:
 
 ![erro](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/erro.PNG)
 
@@ -38,7 +38,7 @@ Será acionado um alerta e não será salvo esse cadastro, podendo após isso se
 
 ## Cadastro Realizado...
 
-Com as pessoas cadastradas, elas serão inserido na tabela. Na tabela, será mostrado os dados feito no cadastro, o RCQ calculado internamente a partir da cintura e do quadril, e os Riscos de doenças cardiocasculares através dos dados do cadastro e do RCQ...
+Com as pessoas cadastradas, elas serão inseridas na tabela. Na tabela, será mostrado os dados feito no cadastro, o RCQ calculado internamente a partir da cintura e do quadril, e os Riscos de doenças cardiocasculares através dos dados do cadastro e do RCQ...
 
 ![tabela com cadastro](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/tabela%20com%20cadastro.PNG)
 
