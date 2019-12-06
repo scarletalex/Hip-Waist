@@ -18,8 +18,10 @@ Além dessas telas, o Hip/Waist possui uma tela de estatísticas, que mostra o M
 
 # Manual do Usuário
 
-### Hip/Waist é um aplicativo de facil utilização, mas para melhor entendimento foi, temos um botão na tela inicial do aplicativo que quando clicado, README.md desse repositório!
+### Hip/Waist é um aplicativo de simples utilização, mas para melhor entendimento foi, temos um botão na tela inicial do aplicativo que quando clicado, README.md desse repositório!
 
 ## Modo de usar: 
+
+Para cadastrar é fácil. Apenas digitar o nome, genero, idade, cintura e quadril, os valores maiores que 0 e o nome com mais de 3 letras, lembrar tambem de não deixar os parametros vázios, e logo em seguida apertar o botão "Cadastrar". Observe a tela de cadastro:
 
 ![cadastro](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/cadastro.PNG)
