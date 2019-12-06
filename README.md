@@ -22,6 +22,15 @@ Além dessas telas, o Hip/Waist possui uma tela de estatísticas, que mostra o M
 
 ## Modo de usar: 
 
-Para cadastrar é fácil. Apenas digitar o nome, genero, idade, cintura e quadril, os valores maiores que 0 e o nome com mais de 3 letras, lembrar tambem de não deixar os parametros vázios, e logo em seguida apertar o botão "Cadastrar". Observe a tela de cadastro:
+Para cadastrar é fácil. Apenas digitar o nome, gênero, idade, cintura e quadril, os valores maiores que 0 e o nome com mais de 3 letras, lembrar tambem de não deixar os parametros vázios, e logo em seguida apertar o botão "Cadastrar". Observe a tela de cadastro:
 
 ![cadastro](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/cadastro.PNG)
+
+#### Se os parametros não forem cumpridos?
+
+Será acionado um alerta e não será salvo esse cadastro, podendo após isso ser cadastrado com os dados dentro dos parametros.
+
+![erro](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/erro.PNG)
+
+
+
