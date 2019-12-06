@@ -77,13 +77,13 @@ O Hip/Waist traz algumas estatísticas que são calculadas automaticamente após
 
 ![estatisticas](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/estatistica%20com%20dados.PNG)
 
-## Como salvar as Pessoas em um arquivo? E como carregar os filmes de um arquivo existente?
+## Como salvar as Pessoas em um arquivo? E como carregar as pessoas de um arquivo existente?
 
 Para salvar é muito fácil. Basta selecionar a opção "Salvar" na barra de tarefas "Arquivo" ou digitar o comando CTRL+S, e as pessoas cadastradas serão salvas em um arquivo de planilha(.csv) com o nome e no local desejado.
 
 ![salvar](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/salvar.png)
 
-Para carregar também é muito fácil, basta selecionar um arquivo que respeite o formato lido pelo app (.csc) e ele será mostrado automaticamente dentro das tabelas e estará pronto para ser lido nas estatísticas, ordenado por nome, RCQ, ser editado, excluido ou cadastrado mais pessoas.
+Para carregar também é muito fácil, Basta selecionar a opção "Carregar " na barra de tarefas "Arquivo" ou digitar o comando CTRL+A e escolher um arquivo que respeite o formato lido pelo app (.csc) e ele será mostrado automaticamente dentro das tabelas e estará pronto para ser lido nas estatísticas, ordenado por nome, RCQ, ser editado, excluido ou cadastrado mais pessoas.
 
 ![carregar](https://raw.githubusercontent.com/scarletalex/Hip-Waist/master/Figuras%20do%20manual/carregar.png)
 
