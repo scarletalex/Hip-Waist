@@ -44,4 +44,10 @@ Com as pessoas cadastrada, elas serão inserido na tabela. Na tabela, será most
 Contamos com dois botões que possibilitam a ordenação a partir desses dois critérios de maneira rápida. Basta clicar na sua opção preferida e os filmes serão mostrados automaticamente na tabela. A primeira imagem mostrará os filmes ordenados por nota e a segunda, por nome.
 
 
+## Como usar a tabela?
+
+### Errei algum dado quando inseri a pessoa, como posso editar ou excluir?
+
+Você pode alterar os dados se clicar duas vezes na célula correspondente a linha da Pessoa, após clicar duas vezes na célula da Pessoa, uma nova janela, a janela de edição nela aparecerá a tela como a do cadastro, com os dados de quem deseja alterar, .
+
 
